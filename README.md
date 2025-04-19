@@ -1,4 +1,4 @@
-# Система валидации регистрации пользователей
+# Система валидации данных регистрации пользователей
 
 ![PHP](https://img.shields.io/badge/PHP-7.4+-blue.svg)
 ![ООП](https://img.shields.io/badge/ООП-Web-red.svg)
