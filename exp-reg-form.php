@@ -1,5 +1,4 @@
 <?php
-
 class RegistrationException extends Exception
 {
     private $field;
